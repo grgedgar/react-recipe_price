@@ -1,7 +1,7 @@
 
 # Recipe Price
 
-Calculates the average and minimal costs of recipe ingredients based on supermarkets' prices.
+Calculates the average and minimal costs of recipe ingredients based on supermarkets' prices. This is a frontend(static) part of the application.
 
 ## Installation 
 
