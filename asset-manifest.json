@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.786e50e7.css",
-    "main.js": "/static/js/main.71f65e6d.js",
+    "main.js": "/static/js/main.7116c227.js",
+    "static/media/1__chicken_fillet_with_spinach.jpg": "/static/media/1__chicken_fillet_with_spinach.475d77d170e6eb39283e.jpg",
+    "static/media/logo.png": "/static/media/logo.9ee28fbd647845c7ecbf.png",
     "index.html": "/index.html",
     "main.786e50e7.css.map": "/static/css/main.786e50e7.css.map",
-    "main.71f65e6d.js.map": "/static/js/main.71f65e6d.js.map"
+    "main.7116c227.js.map": "/static/js/main.7116c227.js.map"
   },
   "entrypoints": [
     "static/css/main.786e50e7.css",
-    "static/js/main.71f65e6d.js"
+    "static/js/main.7116c227.js"
   ]
 }
