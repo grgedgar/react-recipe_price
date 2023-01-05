@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.786e50e7.css",
-    "main.js": "/static/js/main.7116c227.js",
-    "static/media/1__chicken_fillet_with_spinach.jpg": "/static/media/1__chicken_fillet_with_spinach.475d77d170e6eb39283e.jpg",
+    "main.css": "/static/css/main.0485ec03.css",
+    "main.js": "/static/js/main.eb6601bd.js",
+    "static/media/0__chicken_fillet_with_spinach.jpg": "/static/media/0__chicken_fillet_with_spinach.475d77d170e6eb39283e.jpg",
+    "static/media/1__apple_pie.jpg": "/static/media/1__apple_pie.f7f373a000bd327ad71e.jpg",
     "static/media/logo.png": "/static/media/logo.9ee28fbd647845c7ecbf.png",
     "index.html": "/index.html",
-    "main.786e50e7.css.map": "/static/css/main.786e50e7.css.map",
-    "main.7116c227.js.map": "/static/js/main.7116c227.js.map"
+    "main.0485ec03.css.map": "/static/css/main.0485ec03.css.map",
+    "main.eb6601bd.js.map": "/static/js/main.eb6601bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.786e50e7.css",
-    "static/js/main.7116c227.js"
+    "static/css/main.0485ec03.css",
+    "static/js/main.eb6601bd.js"
   ]
 }
